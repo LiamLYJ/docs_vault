@@ -1,0 +1,64 @@
+/* Canvas text cards only. Adjust these values to change the knowledge-tree type scale. */
+.canvas-node .markdown-preview-view,
+.canvas-node .markdown-embed-content {
+  font-size: 28px;
+}
+
+.canvas-node .markdown-rendered h1 {
+  font-size: 46px;
+}
+
+.canvas-node .markdown-rendered h2 {
+  font-size: 38px;
+}
+
+.canvas-node .markdown-rendered h3 {
+  font-size: 32px;
+}
+
+.canvas-node .markdown-rendered h4 {
+  font-size: 30px;
+}
+
+.canvas-node .markdown-rendered h5,
+.canvas-node .markdown-rendered h6 {
+  font-size: 28px;
+}
+
+.canvas-node .markdown-rendered h1,
+.canvas-node .markdown-rendered h2,
+.canvas-node .markdown-rendered h3,
+.canvas-node .markdown-rendered h4,
+.canvas-node .markdown-rendered h5,
+.canvas-node .markdown-rendered h6 {
+  line-height: 1.2;
+  margin: 0;
+}
+
+.canvas-node .markdown-rendered p,
+.canvas-node .markdown-rendered li {
+  font-size: 28px;
+}
+
+/* Descriptions live in a compact quote beneath each knowledge point. */
+.canvas-node .markdown-rendered blockquote {
+  border: 0;
+  margin: 10px 0 0;
+  padding: 0;
+  color: var(--text-muted);
+}
+
+.canvas-node .markdown-rendered blockquote p {
+  font-size: 21px;
+  line-height: 1.3;
+  margin: 0 0 7px;
+}
+
+.canvas-node .markdown-rendered blockquote a {
+  font-size: 18px;
+}
+
+/* Match the text-card editor to the rendered body text. */
+.mod-inside-iframe > .cm-editor > .cm-scroller {
+  font-size: 28px;
+}
