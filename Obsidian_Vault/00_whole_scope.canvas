@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"0c4cabcf247704b4","type":"file","file":"10_Algo_kt.canvas","x":-2080,"y":-4000,"width":2280,"height":1920},
-		{"id":"d26c44a2b238bd38","type":"file","file":"11_FW_kt.canvas","x":535,"y":-4000,"width":2285,"height":1920},
-		{"id":"a9543ab7d74b550b","type":"file","file":"12_HW_kt.canvas","x":3278,"y":-4000,"width":2547,"height":1920},
-		{"id":"4a44563e0187199e","type":"file","file":"13_SW_kt.canvas","x":6320,"y":-4000,"width":2480,"height":1920},
+		{"id":"0c4cabcf247704b4","type":"file","file":"10_Algo.canvas","x":-2080,"y":-4000,"width":2280,"height":1920},
+		{"id":"d26c44a2b238bd38","type":"file","file":"11_FW.canvas","x":535,"y":-4000,"width":2285,"height":1920},
+		{"id":"a9543ab7d74b550b","type":"file","file":"12_HW.canvas","x":3278,"y":-4000,"width":2547,"height":1920},
+		{"id":"4a44563e0187199e","type":"file","file":"13_SW.canvas","x":6320,"y":-4000,"width":2480,"height":1920},
 		{"id":"5fced6c1b9f1fac7","type":"text","text":"# DUCK","x":2080,"y":-6000,"width":1840,"height":480}
 	],
 	"edges":[

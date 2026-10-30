@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bb69e262a2b966be",
+        "id": "cb11eb2da3ca0910",
         "type": "tabs",
         "children": [
           {
-            "id": "d6af5e02199093ca",
+            "id": "2bd7800e637f8080",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "13_SW_kt.canvas",
+                "file": "11_FW.canvas",
                 "viewState": {
-                  "x": 4813.779148617787,
-                  "y": 1124.112815733652,
-                  "zoom": -1.6683405800784643
+                  "x": 1206.4506348371858,
+                  "y": 1092.507203799453,
+                  "zoom": -1.1992016490300499
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "13_SW_kt"
+              "title": "11_FW"
             }
           }
         ]
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1779f060e2153924",
@@ -188,13 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6af5e02199093ca",
+  "active": "2bd7800e637f8080",
   "lastOpenFiles": [
-    "12_HW_kt.canvas",
-    "11_FW_kt.canvas",
-    "10_Algo_kt.canvas",
+    "12_HW.canvas",
+    "11_FW.canvas",
+    "13_SW.canvas",
     "00_whole_scope.canvas",
-    "13_SW_kt.canvas",
+    "10_Algo.canvas",
     "整体设计思想.md",
     "Untitled.base",
     "Untitled.canvas",
