@@ -11,17 +11,14 @@
             "id": "2bd7800e637f8080",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "11_FW.canvas",
-                "viewState": {
-                  "x": 1206.4506348371858,
-                  "y": 1092.507203799453,
-                  "zoom": -1.1992016490300499
-                }
+                "file": "整体设计思想.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "11_FW"
+              "icon": "lucide-file",
+              "title": "整体设计思想"
             }
           }
         ]
@@ -190,8 +187,8 @@
   },
   "active": "2bd7800e637f8080",
   "lastOpenFiles": [
-    "12_HW.canvas",
     "11_FW.canvas",
+    "12_HW.canvas",
     "13_SW.canvas",
     "00_whole_scope.canvas",
     "10_Algo.canvas",
