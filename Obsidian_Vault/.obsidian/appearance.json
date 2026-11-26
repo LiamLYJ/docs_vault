@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "canvas-knowledge-tree-font"
-  ]
+  ],
+  "showRibbon": true
 }
